@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Brian 👋
 
-<!--
-**BrianLinks/BrianLinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | AI & Machine Learning 💻
 
-Here are some ideas to get you started:
+Currently building frontend and reinforcement learning projects at **Flyrank AI**.  
+Focused on writing clean code and turning ideas into working products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 What I’m working on:
+- 🖥️ Frontend development with React
+- 🧠 Reinforcement Learning systems
+- 🐍 Python & TensorFlow
+- ⚙️ Building real AI-powered applications
+
+#### 🛠️ Tech Stack:
+`Python` `TensorFlow` `React` `JavaScript` `Git` `APIs`
+
+#### 📌 Background:
+Previously worked in AI data systems and quality evaluation, which gave me a strong understanding of how real-world AI models are trained and improved.
+
+---
+
+📍 Nairobi, Kenya  
+🔗 [LinkedIn](https://www.linkedin.com/in/brian-o-7469191b7/)
